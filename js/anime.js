@@ -1,5 +1,5 @@
-var str="A Proxy Make You Play On BedrockServers with ",
-tags=["LiquidBounce.","Impact.","Vape.","Jigsaw.","Any Client You Want!"],
+var str="一个第三方代理服务端，允许使用Java版客户端的玩家进入基岩版服务器。                ",
+tags=["现已由FillAmeaPixel团队接手.","咕咕咕？咕咕咕！"],
 element=document.getElementById("SUBTITLE"),
 stat={count:0,tag:0,stage:0};
 setInterval(function(){
