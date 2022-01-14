@@ -121,7 +121,7 @@ header .main-nav__mobile-toggle {
 	display: flex
 }
 
-@media screen and (min-width:1200px) {
+@media screen and (min-width:900px) {
 	header .main-nav__mobile-toggle {
 		display: none
 	}
@@ -190,7 +190,7 @@ header .main-nav__menu .menu-item {
 	cursor: pointer
 }
 
-@media screen and (min-width:1200px) {
+@media screen and (min-width:900px) {
 	header .main-nav__menu .menu-item {
 		display: flex
 	}
@@ -245,7 +245,7 @@ header .main-nav__action.download-launcher {
 	display: none
 }
 
-@media screen and (min-width:1200px) {
+@media screen and (min-width:900px) {
 	header .main-nav__action.download-launcher {
 		display: flex
 	}
@@ -274,7 +274,7 @@ header .main-nav__action.vk {
 	color: #5181b8
 }
 
-@media screen and (min-width:1200px) {
+@media screen and (min-width:900px) {
 	header .main-nav__action.vk {
 		display: flex
 	}
@@ -682,7 +682,7 @@ article .download-block__images img {
 	z-index: 3
 }
 
-@media screen and (min-width:1200px) {
+@media screen and (min-width:900px) {
 	article .download-block {
 		justify-content: space-between;
 		flex-direction: row;
@@ -752,13 +752,13 @@ article .advantages-wrapper {
 	grid-gap: 20px
 }
 
-@media screen and (min-width:1000px) {
+@media screen and (min-width:700px) {
 	article .advantages-wrapper {
 		grid-template-columns: 1fr 1fr
 	}
 }
 
-@media screen and (min-width:1200px) {
+@media screen and (min-width:900px) {
 	article .advantages-wrapper {
 		grid-template-columns: 1fr 1fr 1fr
 	}
@@ -880,7 +880,7 @@ footer .footer-nav .copy {
 	padding-bottom: 20px;
 }
 
-@media screen and (min-width:1200px) {
+@media screen and (min-width:700px) {
 	footer .footer-nav {
 		align-items: center;
 		justify-content: space-between;
