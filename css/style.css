@@ -352,7 +352,7 @@ article .download-block__title h1 {
 
 article .download-block__title h3 {
 	font-size: 20px;
-	color: rgba(0,0,0,.5)
+	color: rgba(0,0,0,.5);
 }
 
 article .download-block__select-button {
@@ -876,7 +876,8 @@ footer .footer-nav__menu {
 }
 
 footer .footer-nav .copy {
-	padding-top: 20px
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 @media screen and (min-width:700px) {
