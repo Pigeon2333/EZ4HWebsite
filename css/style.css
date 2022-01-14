@@ -87,7 +87,7 @@ header {
 	position: fixed;
 	top: 0;
 	left: 0;
-	background: #fafafc;
+	background: #ffffff;
 	z-index: 10;
 	transition: all .15s ease-in-out
 }
@@ -686,7 +686,7 @@ article .download-block__images img {
 	article .download-block {
 		justify-content: space-between;
 		flex-direction: row;
-		height: 56vh;
+		height: 700px;
 		margin: 0 30px
 	}
 
