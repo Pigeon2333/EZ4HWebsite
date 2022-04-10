@@ -903,7 +903,7 @@ footer .footer-nav a {
 }
 
 footer .footer-nav a:not(:last-child) {
-	margin-right: 15px
+	margin-right: 10px
 }
 
 footer .footer-nav a:hover {
