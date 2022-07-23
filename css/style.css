@@ -46,11 +46,11 @@ object {
 }
 
 @font-face {
-	font-family:Gilroy;font-style:normal;font-weight:400;src:url(fonts/96772ff.woff2) format("woff2")
+	font-family:Gilroy;font-style:normal;font-weight:400;src:url(https://adn.arcitcgn.cn/npm/fap-ez4h-website/fonts/96772ff.woff2) format("woff2")
 }
 
 @font-face {
-	font-family:Gilroy;font-style:normal;font-weight:700;src:url(fonts/e102b84.woff2) format("woff2")
+	font-family:Gilroy;font-style:normal;font-weight:700;src:url(https://adn.arcitcgn.cn/npm/fap-ez4h-website/fonts/e102b84.woff2) format("woff2")
 }
 
 * {
