@@ -1,5 +1,5 @@
 var str="一个第三方Minecraft服务端代理，</br>允许通过Java版客户端进入基岩版服务器。</br></br>",
-tags=["现已由FillAmeaPixel接手。","咕咕咕？咕咕咕！"],
+tags=["FunnyArenaPixel 旗下项目。","咕咕咕？咕咕咕！"],
 element=document.getElementById("SUBTITLE"),
 stat={count:0,tag:0,stage:0};
 setInterval(function(){

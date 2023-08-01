@@ -1,5 +1,5 @@
 var str="EZ4H is a bridge/proxy between Minecraft: JE and Minecraft: BE,</br>which allows JE-clients to connect to BE-servers.</br></br>",
-tags=["has been taken over by FillAmeaPixel.","咕咕咕？咕咕咕！"],
+tags=["A project under FunnyArenaPixel.","Coo coo? Coo cooo!"],
 element=document.getElementById("SUBTITLE"),
 stat={count:0,tag:0,stage:0};
 setInterval(function(){
